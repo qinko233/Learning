@@ -1,0 +1,12 @@
+# git account
+.git-credentials
+
+# svn
+Proj/.svn/
+
+# 忽略NetCore项目下的一些文件
+Proj/NetApi/bin
+Proj/NetApi/obj
+Proj/NetApi/.vs
+Proj/NetApi/NetApi.csproj.user
+
