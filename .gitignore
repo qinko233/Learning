@@ -9,4 +9,4 @@ Proj/NetApi/bin
 Proj/NetApi/obj
 Proj/NetApi/.vs
 Proj/NetApi/NetApi.csproj.user
-Proj/NetApi/appsetttins.Production.json
+Proj/NetApi/appsettings.Production.json
