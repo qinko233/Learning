@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetApi", "NetApi.csproj", "{DDC3557B-5477-4AF1-AFA8-803B5681B371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC3557B-5477-4AF1-AFA8-803B5681B371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC3557B-5477-4AF1-AFA8-803B5681B371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC3557B-5477-4AF1-AFA8-803B5681B371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC3557B-5477-4AF1-AFA8-803B5681B371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3536A05-F67B-4171-A775-522382DD2940}
+	EndGlobalSection
+EndGlobal
